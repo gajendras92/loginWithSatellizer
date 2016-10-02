@@ -1,0 +1,18 @@
+{
+  "name": "stateProviderDemo",
+  "authors": [
+    "Prashant Yadav"
+  ],
+  "description": "Demo on stateProvider",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "jquery": "^3.1.0",
+    "angular-ui-router": "^0.3.1",
+    "satellizer": "^0.15.5",
+    "angular-toastr": "^2.1.1",
+    "angular-resource": "^1.5.8"
+  }
+}

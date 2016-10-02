@@ -1,0 +1,35 @@
+.row{
+    margin: 0;
+}
+nav{
+    margin-bottom: 50px;
+    background: #d9534f;
+}
+.socialLogin{
+    margin-bottom: 2rem;
+}
+.card .form-header {
+    color: #fff;
+    text-align: center;
+    margin-top: -50px;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+    .blue-gradient, .blue-skin .side-nav {
+    background: #000;
+    background: -moz-linear-gradient(-45deg,#000 0,#062a64 100%);
+    background: -webkit-linear-gradient(-45deg,#000 0,#062a64 100%);
+    background: linear-gradient(135deg,#000 0,#062a64 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#062a64', GradientType=1 );
+}
+.btn-fb {
+    background-color: #3B5998;
+}
+.btn-gplus {
+    background-color: #DD4B39;
+}
